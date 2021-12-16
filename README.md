@@ -10,7 +10,7 @@ Example plots were generated based on article 'XX' 20XX. The objective is to und
 
 # Notes
 * The formula were recorded in Calculation.txt file
-* This plot.html files were executed by R version 4.0.2 (2020-06-22) with R package **tmap V3.3-2**, **rmarkdown V2.9**, **dplyr V1.0.5**. 
-*The system information: Darwin Kernel Version 20.3.0, x86_64
+* This plot.html files were executed by R version 4.0.2 (2020-06-22) with R package **tmap V3.3-2**, **rmarkdown V2.9**, **dplyr V1.0.5**
+* The system information: Darwin Kernel Version 20.3.0, x86_64
 
 
