@@ -1,0 +1,6 @@
+
+*	Contribution = geomarker value * geomarker coefficient
+*	Total contribution = sum of four geomarker contributions
+*	Rate_change = geomarker value * geomarker age coefficient
+*	Overall rate_change = sum of four geomarker rate_change
+*	Total effect by age = geomarker contribution + rate_change * age
