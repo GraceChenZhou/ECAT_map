@@ -9,10 +9,23 @@ Example plots were generated based on article 'XX' 20XX. The objective is to und
 * Total Effect Plot refers to the total effect of geomarkers on lung function in CF stratified by age stages (e.g., early, middle, late). It was calculated by contribution of geomarker plus rate of change * age. 
 
 # Notes
-
-* More detailed formulas were recorded in Calculation.txt file
-* Two plot.html files were executed by R version 4.0.2 (2020-06-22) with R package **tmap V3.3-2**, **rmarkdown V2.9**, **dplyr V1.0.5**,**leaflet V2.0.4.1**
-* The system information: Darwin Kernel Version 20.3.0, x86_64
+* All relevant data sets can be found under folder DATA
+* GEN_ECAT_MAP_DT.r is the code used to generate proper data for maps 
+* .rmd files are used to generate .html files
+* Detailed formulas are recorded in Calculation.txt file
+* ECAT_refs.bib is for inserting citations
+* R version 4.0.2 (2020-06-22)
+* R packages 
+  + **tmap v3.3-2**
+  + **rmarkdown v2.9**
+  + **dplyr v1.0.5**
+  + **leaflet v2.0.4.1**
+  + **tigris v1.5**
+  + **sp v1.4-4**
+  + **rgeos v0.5-5**
+  + **sf v0.9-7**
+  + **mapview v2.10.0**
+* System information: Darwin Kernel Version 20.3.0, x86_64
 
 # Acknowledgement
 
