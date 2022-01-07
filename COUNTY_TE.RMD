@@ -29,8 +29,8 @@ library(dplyr)
 library(tmap)
 library(leaflet)
 
-indata <- readRDS('Data/Hamilton_Data.rds')
-ZipCode <- readRDS('Data/Hamilton_Zipcode.rds')
+indata <- readRDS('DATA/Hamilton_Data.rds')
+ZipCode <- readRDS('DATA/Hamilton_Zipcode.rds')
 
 #Function
 ##Reference:https://rdrr.io/github/r-spatial/leafem/src/R/homebutton.R#sym-addZoomFullButton
