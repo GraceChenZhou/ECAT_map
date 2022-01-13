@@ -5,8 +5,8 @@ Example plots were generated based on article 'XX' 20XX. The objective is to und
 # Plot explanation
 
 * Geomarkers of interest: ECAT, deprivation index, green space, drive time
-* Rate of Change Plot refers to the impact of geomarkers on rate of change for lung function in CF. The negative value denotes the percentage predicted decline per year in lung function (often measured by FEV1% predicted)
-* Total Effect Plot refers to the total effect of geomarkers on lung function in CF stratified by age stages (e.g., early, middle, late). It was calculated by contribution of geomarker plus rate of change * age. 
+* Rate of Change Plot (COUNTY_ROC.html) refers to the impact of geomarkers on rate of change for lung function in CF. The negative value denotes the percentage predicted decline per year in lung function (often measured by FEV1% predicted)
+* Total Effect Plot (COUNTY_TE.html) refers to the total effect of geomarkers on lung function in CF stratified by age stages (e.g., early, middle, late). It was calculated by contribution of geomarker plus rate of change * age. 
 
 # Notes
 * All relevant data sets can be found under folder DATA
